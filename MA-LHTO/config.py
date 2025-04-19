@@ -1,6 +1,6 @@
 config = {
     "epoch": 10,
-    "curPath": '/home/hexiao/Four/user25task3/DJTCRA-RESET/',
+    "curPath": '/home/hexiao/Four/user25task3/MA-LHTO/',
     "Datasets_path": '/data/',
     "Result_path": '/save_info/',
     "Model_path": '/model/',
