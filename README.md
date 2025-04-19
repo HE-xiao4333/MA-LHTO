@@ -8,4 +8,5 @@ config.py stores some fixed parameters, such as the number of devices, locations
 
 Some execution result csv files and origin files are stored in the Others folder. You can see the experimental results in work.
 
-Some files are missing now. They will be uploaded after the article is accepted and published.
+Among them, some files (algorithms) are missing now. They will be uploaded after the article is accepted and published. 
+However, the system model (OnlineGPU_main.py, OnlineGPU_MES.py) has been uploaded and can be modified based on this.
