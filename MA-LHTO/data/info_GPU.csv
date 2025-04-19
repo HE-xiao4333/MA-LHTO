@@ -1,3 +1,0 @@
-sn,cpu_milli,memory_mib,gpu,model
-openb-node-0025,32000,131072,4,V100M16
-openb-node-0035,96000,393216,4,T4
